@@ -1,2 +1,2 @@
 # High-performance_computing_labs_2024
-Repository for high-performance computing labs
+Репозиторий для лабораторных работ по курсу "Высокопроизводительные вычисления"
